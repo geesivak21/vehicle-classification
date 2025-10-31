@@ -206,6 +206,6 @@ Automobile_ML_Combined_Project.ipynb
 
 ## 👤 Author
 
-**Siva [Your Full Name]**
+**G. Siva Kumar**
 💼 [LinkedIn](https://linkedin.com/in/g-siva)| 
 🧑‍💻 [GitHub](https://github.com/gesivak21)
