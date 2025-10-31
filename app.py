@@ -44,9 +44,9 @@ if uploaded_file is not None:
 # --- Buttons ---
 col1, col2 = st.columns(2)
 with col1:
-    submit = st.button("Submit for Prediction", key="submit_button")
+    submit = st.button("🚀 Submit for Prediction", key="submit_button")
 with col2:
-    clear = st.button("🧹 Clear Data", key="clear_button")
+    clear = st.button("🔄 Reset Data", key="clear_button")
 
 # --- Clear button logic ---
 if clear:
